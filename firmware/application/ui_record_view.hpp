@@ -95,7 +95,7 @@ private:
 
 	ImageButton button_record {
 		//{ 4 * 8, 0 * 16, 2 * 8, 1 * 16 },
-		{ 0 * 8, 0 * 16, 2 * 8, 1 * 16 },
+		{ 0 * 8, 0 * 16, 3 * 8, 1 * 16 },
 		&bitmap_record,
 		Color::red(),
 		Color::black()
